@@ -1,13 +1,13 @@
-## Dashboard_Andes_Capital_Real_Estate
+# Dashboard_Andes_Capital_Real_Estate
 Dashboard interactivo para entender el desempeño comercial de los años 2024–2025 de Andes Capital Real Estate
 
 
-## Proyecto 10: Dashboard de análisis comercial inmobiliario
+# Proyecto 10: Dashboard de análisis comercial inmobiliario
 Como analista de datos en una empresa inmobiliaria se necesita comprender mejor el desempeño comercial. La empresa gestiona la venta de diferentes tipos de propiedades a través de distintos canales de venta y segmentos de clientes. Actualmente, la información existe a nivel transaccional, pero no hay una visión analítica clara del negocio.
 
 
 
-# Objetivo del proyecto
+## Objetivo del proyecto
 Construir un dashboard interactivo en Power BI o Tableau que permita analizar ventas, clientes y propiedades para apoyar decisiones estratégicas. El dashboard debe ayudar a responder preguntas como:
 
 ¿Cuál es el ingreso total generado por las ventas de propiedades?
@@ -26,7 +26,7 @@ Con ello se logró:
 - Analizar la recurrencia de clientes utilizando cohortes.
 
 
-# El dataset contiene las siguientes columnas:
+## El dataset contiene las siguientes columnas:
 
 El proyecto utiliza una tabla de hechos (ventas) y tablas dimensionales (clientes y propiedades).
 
@@ -79,7 +79,7 @@ Visualizaciones nativas (barras, líneas, tablas, KPI).
 Modelado de datos en esquema estrella.
 Cálculos analíticos (medidas y columnas calculadas).
 
-# Etapas del análisis realizadas Paso Acción Resultado para el negocio (Flujo general del proyecto):
+## Etapas del análisis realizadas Paso Acción Resultado para el negocio (Flujo general del proyecto):
 
 Paso	Acción	Resultado
 1. Limpieza de datos:	Se validaron tipos de datos, nulos y duplicados para obtener un	dataset listo para análisis.
