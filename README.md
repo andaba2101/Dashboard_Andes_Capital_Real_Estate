@@ -1,5 +1,5 @@
 # Dashboard_Andes_Capital_Real_Estate
-Dashboard interactivo para entender el desempeño comercial de los años 2024–2025 de Andes Capital Real Estate
+Sprint 11 | Proyecto 10: Dashboard interactivo para entender el desempeño comercial de los años 2024–2025 de Andes Capital Real Estate
 
 
 # Proyecto 10: Dashboard de análisis comercial inmobiliario
